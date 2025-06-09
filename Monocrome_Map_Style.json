@@ -43,7 +43,6 @@
             "source": "composite",
             "source-layer": "2024_Sensors_on_the_Marineter-7fgp5t",
             "layout": {
-
                 "icon-image": [
                     "match",
                     ["get", "icon"],
