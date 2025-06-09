@@ -1,0 +1,81 @@
+{
+    "version": 8,
+    "name": "Sensors Monochrome Map",
+    "metadata": {
+        "mapbox:autocomposite": true,
+        "mapbox:thumb": "data:image/png;base64,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",
+        "mapbox:uiParadigm": "imports",
+        "mapbox:sdk-support": {
+            "js": "3.11.0",
+            "android": "11.12.0",
+            "ios": "11.12.0"
+        },
+        "mapbox:groups": {}
+    },
+    "center": [-34, 38],
+    "zoom": 2,
+    "terrain": null,
+    "imports": [
+        {
+            "id": "basemap",
+            "url": "mapbox://styles/mapbox/standard",
+            "config": {
+                "theme": "monochrome",
+                "show3dObjects": false,
+                "showPlaceLabels": false,
+                "showPointOfInterestLabels": false,
+                "showTransitLabels": false,
+                "showPedestrianRoads": false,
+                "showRoadLabels": false
+            }
+        }
+    ],
+    "sources": {
+        "composite": {"url": "mapbox://tomvanarman.885wvhwf", "type": "vector"}
+    },
+    "sprite": "mapbox://sprites/tomvanarman/cmbp5sm3k00vp01s5faaf7l3y/3cloug7lnb89rynx54sty9y95",
+    "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
+    "projection": {"name": "globe"},
+    "layers": [
+        {
+            "id": "2024-sensors-on-the-marineter-7fgp5t",
+            "type": "symbol",
+            "source": "composite",
+            "source-layer": "2024_Sensors_on_the_Marineter-7fgp5t",
+            "layout": {
+                "text-field": ["to-string", ["get", "name"]],
+                "icon-image": [
+                    "match",
+                    ["get", "icon"],
+                    ["images/icon-1.png"],
+                    "Voorziening - Voorzieningen",
+                    ["images/icon-2.png"],
+                    "Geluid - Milieu",
+                    ["images/icon-3.png"],
+                    "Beweging  - Voorzieningen",
+                    ["images/icon-4.png"],
+                    "Beweging - Verkeer",
+                    ["images/icon-5.png"],
+                    "Beelden - Voorziening",
+                    ["images/icon-6.png"],
+                    "Beelden - Veiligheid",
+                    ["images/icon-7.png"],
+                    "Water - Voorziening",
+                    ["images/icon-8.png"],
+                    "Beelden - Voorziening",
+                    ""
+                ],
+                "text-offset": [0, 0],
+                "icon-anchor": "bottom"
+            },
+            "paint": {}
+        }
+    ],
+    "created": "2025-06-09T14:00:03.296Z",
+    "modified": "2025-06-09T14:10:02.354Z",
+    "id": "cmbp5sm3k00vp01s5faaf7l3y",
+    "owner": "tomvanarman",
+    "visibility": "private",
+    "protected": false,
+    "draft": false
+}
